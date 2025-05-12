@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student at <a href='https://www.cs.arizona.edu/'>University of Arizona</a>. yingwei [at] arizona [dot] com
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Module 137, Deep Rift Station</p>
+    <p>Module 137, Rift Station</p>
     <p>42 Spiral Gate  </p>
     <p>Andromeda Galaxy, 31400</p>
 
@@ -33,4 +33,6 @@ I completed my M.S. in Computer Science at [Brown University](https://cs.brown.e
 
 In the summer of 2024, I was a research intern at the [Harvard Visual Computing Lab](https://vcg.seas.harvard.edu/), where I collaborated with [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister) and [Dr. Wanhua Li](https://li-wanhua.github.io/) on 3D Gaussian Splatting with language-based supervision. In 2025, I interned at [Hedra AI](https://www.hedra.com/), working with [Hongwei Yi](https://xyyhw.top/) on diffusion-based video generation and efficient generative modeling.
 
-Beyond research, I enjoy skiing and spending time with my Siamese cat and rabbit. A quote that resonates with me is from Prof. William T. Freeman: *“Slow down to speed up.”*
+Beyond research, I am especially fond of Siamese cats and rabbits.
+
+A quote that resonates with me is from William T. Freeman: *“Slow down to speed up.”*
