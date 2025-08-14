@@ -27,7 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Computer Science at the [University of Arizona](https://www.cs.arizona.edu/) (2025–), advised by [Prof. Huanrui Yang](https://sites.google.com/view/huanrui-yang/biography?authuser=0). My research is currently in an exploratory phase, but I am broadly interested in 3D reconstruction, diffusion-based generative models, video synthesis, and efficient learning methods. I am especially curious about how to build semantically meaningful and computationally efficient generative systems that can handle complex spatial and temporal data.
+
+I am a master student in Computer Science at Brown University. My research is currently in an exploratory phase, but I am broadly interested in 3D reconstruction, diffusion-based generative models, video synthesis, and efficient learning methods. I am especially curious about how to build semantically meaningful and computationally efficient generative systems that can handle complex spatial and temporal data.
 
 I completed my M.S. in Computer Science at [Brown University](https://cs.brown.edu/) in 2025, where I worked with [Prof. James Tompkin](https://jamestompkin.com/) on neural rendering and representation learning using NeRF. Before that, I received my B.S. from the [University of Wisconsin–Madison](https://www.cs.wisc.edu/) in 2023, double majoring in Computer Science and Data Science, with a minor in Math.
 
