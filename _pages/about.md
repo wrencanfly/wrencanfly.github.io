@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href='https://www.cs.arizona.edu/'>University of Arizona</a>. yingwei [at] arizona [dot] com
+subtitle: MS student at <a href='https://www.cs.brown.edu/'>Brown University</a>. yingwei_song [at] brown [dot] edu
 
 profile:
   align: right
