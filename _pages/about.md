@@ -36,7 +36,7 @@ In the summer of 2024, I was a research intern at the [Harvard Visual Computing 
 
 In 2025, I interned at [Hedra AI](https://www.hedra.com/), working with [Hongwei Yi](https://xyyhw.top/) on diffusion-based video generation and efficient generative modeling. I gained HPC experience with k8s, Airflow, and developed a custom Slurm-based orchestration system to streamline large-scale preprocessing. I drove the creation of a pipeline that filtered raw videos into training-ready datasets and embeddings, producing over 10 million clips—a milestone I am especially proud of.
 
-Currently, I am actively collaborating with [Kelly Peng](https://www.linkedin.com/in/kellyzpeng/).
+
 
 Beyond research, I am especially fond of Siamese cats and rabbits.
 
