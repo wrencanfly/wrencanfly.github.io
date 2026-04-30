@@ -34,7 +34,7 @@ Before coming to UArizona, I completed my M.S. in Computer Science at [Brown Uni
 
 In the summer of 2024, I was a research intern at the [Harvard Visual Computing Lab](https://vcg.seas.harvard.edu/), where I collaborated with [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister) and [Dr. Wanhua Li](https://li-wanhua.github.io/) on 3D Gaussian Splatting with language-based supervision. 
 
-In 2025, I interned at [Hedra AI](https://www.hedra.com/), working with [Hongwei Yi](https://xyyhw.top/) on diffusion-based video generation and efficient generative modeling. I gained HPC experience with k8s, Airflow, and developed a custom Slurm-based orchestration system to streamline large-scale preprocessing. I drove the creation of a pipeline that filtered raw videos into training-ready datasets and embeddings, producing over 10 million clips—a milestone I am especially proud of.
+In 2025, I interned at [Hedra AI](https://www.hedra.com/), working with [Hongwei Yi](https://xyyhw.top/) on diffusion-based video generation and efficient generative modeling. I built an end-to-end data pipeline that produced over 10 million training-ready video clips, and contributed to the development of the Character Series and OMNIA.
 
 
 
